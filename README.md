@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Image Processing Filters Collection
 
 This repository contains a collection of Python scripts for popular image enhancement and pansharpening filters, tested on `Image_HW2.tif`.
