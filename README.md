@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Enhancement Filters Collection
 
 Bu koleksiyon, Image_HW2.tif dosyası için kapsamlı görüntü iyileştirme filtrelerini içerir. Her filter farklı parametrelerle test edilmiş ve ayrı Python dosyalarında organize edilmiştir.
@@ -149,3 +150,6 @@ pip install numpy rasterio scipy
 2. Görsel olarak en iyi sonuçları karşılaştırın
 3. Belirli filterlerle fine-tuning yapın
 4. Kombinasyon filtreleri deneyebilirsiniz (örn: önce gürültü azaltma, sonra keskinleştirme)
+=======
+# Image-Processing-Functions
+>>>>>>> f8829d8960e9839cdc536bf2586fc8389053846f
